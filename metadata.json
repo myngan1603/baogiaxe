@@ -1,0 +1,6 @@
+{
+  "name": "Út Long Travel - Báo Giá Xe",
+  "description": "Ứng dụng báo giá dịch vụ xe du lịch Út Long - Nhanh chóng, chính xác, mọi lúc mọi nơi.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
